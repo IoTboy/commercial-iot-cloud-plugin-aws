@@ -1,0 +1,11 @@
+{
+	"host": "A29DX4W89PS7XF.iot.us-west-2.amazonaws.com",
+	"port": 8883,
+	"clientId": "iot-gateway",
+	"thingName": "iot-gateway",
+	"caPath": "./certs/root-CA.crt",
+	"certPath": "./certs/28abead288-certificate.pem.crt",
+	"keyPath": "./certs/28abead288-private.pem.key",
+	"region": "us-west-2"
+}
+
